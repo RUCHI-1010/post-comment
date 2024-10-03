@@ -1,8 +1,8 @@
 {
   "name": "post-comments",
   "version": "0.1.0",
-  "homepage": "https://<RUCHI-1010>.github.io/<post-comments>",
   "private": true,
+  "homepage": "https://RUCHI-1010.github.io/post-comment",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
